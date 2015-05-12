@@ -14,17 +14,15 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
+package main;
+
 /**
  *
  * @author Sergio
  */
-public class NewClass {
-    public static void main(String[] args) {
-        
-        System.out.println("Hello Word!");
-        System.out.println("Hello Word!");
-        System.out.println("Hello Word!");
-        System.out.println("Hello Word!");
-        System.out.println("Hello Word!");
-    }
-}
+public class Escalonador {
+    
+    private static int quantum;
+    private static int numProcessos;
+
+            }
